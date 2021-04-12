@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\spremanjeKorisnika\spremanjeKorisnika\bin\Debug\spremanjeKorisnika.exe.config
+C:\Users\toni-PC\source\repos\spremanjeKorisnika\spremanjeKorisnika\bin\Debug\spremanjeKorisnika.exe
+C:\Users\toni-PC\source\repos\spremanjeKorisnika\spremanjeKorisnika\bin\Debug\spremanjeKorisnika.pdb
+C:\Users\toni-PC\source\repos\spremanjeKorisnika\spremanjeKorisnika\obj\Debug\spremanjeKorisnika.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\spremanjeKorisnika\spremanjeKorisnika\obj\Debug\spremanjeKorisnika.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\spremanjeKorisnika\spremanjeKorisnika\obj\Debug\spremanjeKorisnika.exe
+C:\Users\toni-PC\source\repos\spremanjeKorisnika\spremanjeKorisnika\obj\Debug\spremanjeKorisnika.pdb
